@@ -1,5 +1,5 @@
 # 📊 Data Analytics Project
-Customer Shopping BehVior
+Customer Shopping Behavior
 
 ## Overview
 
